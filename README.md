@@ -13,6 +13,7 @@ Released under AGPL see LICENSE for more information
 ## Documentation
 
 For full details of how to use the tool please read the HDMI Ethernet Channel whitepaper
+https://github.com/nccgroup/CECster/blob/master/HDMI_Ethernet_Channel_whitepaper.pdf
 
 In order to get CECSTeR up and running there are a number of dependencies:
 
