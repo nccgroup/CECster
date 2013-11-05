@@ -1,12 +1,12 @@
-CECster
+CECSTeR
 =======
-A GUI-based tool to perform security testing against the HDMI CEC (Consumer Electronics Control) and HEC (HDMI Ethernet Channel) protocols
+CECSTeR is the Consumer Electronics Control Security Testing Resource - a GUI-based tool to perform security testing against the HDMI CEC (Consumer Electronics Control) and HEC (HDMI Ethernet Channel) protocols
 
 Released as open source by NCC Group Plc - http://www.nccgroup.com/
 
 Developed by Andy Davis, andy dot davis at nccgroup dot com
 
-https://www.github.com/nccgroup/CECster
+https://www.github.com/nccgroup/CECSTeR
 
 Released under AGPL see LICENSE for more information
 
