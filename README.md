@@ -25,5 +25,5 @@ You will also need:
 
 - RainShadow Tech USB-CEC bridge - http://rainshadowtech.com/default_files/HDMICECUSB.htm
 
-Usage: CECSTeR.pl <COM port>
+Usage: CECSTeR.py <COM port>
 
